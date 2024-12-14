@@ -10,3 +10,4 @@ In this project:
 - The model is trained on a dataset of labeled emails.
 - We built an **interactive web app** using **Streamlit** so that anyone can input email text and get an immediate prediction (Spam or Ham).
 
+<h2>happy Coding 😊😊</h2>
